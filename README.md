@@ -1,6 +1,4 @@
-# 👋 Hello World!
-
-## About Me
+## Hi there 👋
 
 I'm Ashik, <strong>Front-end Developer</strong>.  
 From Dhaka, Bangladesh 🇧🇩
