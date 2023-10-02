@@ -34,9 +34,14 @@ Discover here all my projects, including my contributions to <strong>open-source
 
 ![Ashik's github stats](https://github-readme-stats.vercel.app/api?username=ashikjs&show_icons=true&theme=radical&rank_icon=github)
 </br>
-</br>![Ashik's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashikjs&theme=radical)
 </br>
-</br>![](https://github-contributor-stats.vercel.app/api?username=ashikjs&limit=3&theme=radical&combine_all_monthly_contributions=true)
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=ashikjs&type=json)
+</br>
+</br>
+
+-->
+![Ashik's github contribution](https://github-contributor-stats.vercel.app/api?username=ashikjs&limit=3&theme=radical&combine_all_monthly_contributions=true)
 
 
 <img src="https://komarev.com/ghpvc/?username=ashikjs" alt="ashikjs" />
