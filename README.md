@@ -1,11 +1,9 @@
-### Hi there 👋
-
-# <img src="https://raw.githubusercontent.com/soydiego/soydiego/master/img/hi.gif" width="30"> Hello World!
+# 👋 Hello World!
 
 ## About Me
 
 I'm Ashik, <strong>Front-end Developer</strong>.  
-From Dhaka, Bangladesh 🇦🇷 
+From Dhaka, Bangladesh 🇧🇩
 Discover here all my projects, including my contributions to <strong>open-source</strong> initiatives.
 
 ## Skills
