@@ -13,9 +13,7 @@ Discover here all my projects, including my contributions to <strong>open-source
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
 
