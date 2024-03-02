@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ashik, <strong>Front-end Developer</strong>.  
+I'm Ashik, <strong>Senior Front-end Developer</strong>.  
 From Dhaka, Bangladesh 🇧🇩
 Discover here all my projects, including my contributions to <strong>open-source</strong> initiatives.
 
